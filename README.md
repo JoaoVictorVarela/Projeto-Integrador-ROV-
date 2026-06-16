@@ -1,1 +1,1 @@
-Nesse reposotório colocar somente arquivos relacionados ao Projeto Integrador
+Desenvolvimento de protótipo tecnológico utilizando programação e eletrônica básica, estimulando criatividade, resolução de problemas e aprendizado técnico. Nesse protótipo foram utilizadas as linguagens de programação Python, HTML, CSS e JavaScript
